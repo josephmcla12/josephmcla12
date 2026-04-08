@@ -56,4 +56,4 @@ I enjoy breaking ideas down into diagrams, pseudocode, and clear steps before wr
 ---
 
 ## 📫 Connect With Me
-(Links coming soon)
+LinkedInn(https://www.linkedin.com/in/joseph-mclarnon-370658390/)
