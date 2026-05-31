@@ -12,9 +12,6 @@ I enjoy working with APIs, databases, and systems that require clear logic and p
 
 ## Current Projects
 - **Dental Clinic API** — appointments, patients, staff, SQL schema, analytics endpoints  
-- **Food Ordering API** — menu management, order flow, mock payment logic  
-- **Fitness Tracker API** — workouts, progress tracking, user data  
-- **Messaging API** — accounts, chat rooms, message handling
 
 Each project includes:
 - Clear folder structure  
